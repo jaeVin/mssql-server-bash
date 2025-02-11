@@ -2,7 +2,7 @@
 
 Repository letöltése
 ```
-git clone
+git clone https://github.com/jaeVin/mssql-server-bash.git
 ```
 
 Belépés a mappába
