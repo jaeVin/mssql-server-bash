@@ -1,4 +1,4 @@
-# mssql-server-bash
+# MsSql Server Bash Script
 
 Repository letöltése
 ```
