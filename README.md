@@ -1,4 +1,10 @@
 # mssql-server-bash
-git clone 
+```
+git clone
+```
+```
 cd *mappa név*
+```
+```
 ./database.sh
+```
