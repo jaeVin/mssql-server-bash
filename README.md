@@ -1,21 +1,21 @@
 # mssql-server-bash
 
-#Repository letöltése
+Repository letöltése
 ```
 git clone
 ```
 
-#Belépés a mappába
+Belépés a mappába
 ```
 cd mssql-server-bash
 ```
 
-#Indítás
+Indítás
 ```
 ./database.sh
 ```
 
-#Kiiratás, szerkesztés
+Kiiratás, szerkesztés
 ```
 nano database.sh 
 ```
